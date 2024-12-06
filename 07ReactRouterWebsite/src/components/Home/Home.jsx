@@ -24,7 +24,7 @@ function Home(){
                         Byte by Byte, Our Excellence Impresses.❞
                     </p>
                 </div>
-                <div className='lg:w-full lg:min-h-[1400px] lg:flex mb-10 mt-10 overflow-hidd   en'>
+                <div className='lg:w-full lg:min-h-[1400px] lg:flex mb-10 mt-10 overflow-hidden'>
                     <img src={pex10} alt="" className='lg:w-[500px] lg:h-[290px] lg:relative lg:left-[50px] lg:top-[30px] rounded-xl animate-moveImage'/>
                     <img src={pex12} alt="" className='rounded-xl lg:w-[500px] lg:h-[290px] lg:absolute lg:top-[1350px] lg:left-[1000px] animate-moveImage1'/>
                     <img src={pex15} alt="" className='lg:w-[500px] lg:h-[290px] lg:absolute lg:left-[350px] lg:top-[1650px] rounded-xl animate-moveImage2'/>

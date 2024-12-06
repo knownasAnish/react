@@ -49,6 +49,11 @@ function Header(){
                                 Github
                             </NavLink>
                         </li>
+                        <li>
+                            <NavLink to='/user/Anish' className={({ isActive }) => `lg:text-2xl ${isActive? 'text-orange-500' : 'text-black'}`}>
+                                User
+                            </NavLink>
+                        </li>
                     </ul>
                 </div>
                 
